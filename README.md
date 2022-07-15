@@ -4,7 +4,7 @@ Hi 👋 My name is Bhoomi
 web developer
 -------------
 
-I'hv been learn web development from 1 month. I worked on javascript. I learned html , css .
+I'hv been learn web development from 1 month. I am a front end developer,working on react.js .
 
 * 🌍  I'm based in uttarpradesh
 * ✉️  You can contact me at [bhoomi1414agarwal@gmail.com](mailto:bhoomi1414agarwal@gmail.com)
