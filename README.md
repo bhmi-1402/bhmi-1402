@@ -1,7 +1,8 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FC5612AQFSgWbNU69zjQ%2Farticle-cover_image-shrink_600_2000%2F0%2F1623265126333%3Fe%3D2147483647%26v%3Dbeta%26t%3DEeP8dho0Uc4PC-c5o1ngS6o_QvJeoGhdvrPVhsAltdc&tbnid=SuQrJQ3K4iKPKM&vet=12ahUKEwjyidy32oaDAxVnfGwGHb3GDMgQMygFegQIARA9..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-become-full-stack-developer-roadmap-jennifer-winget&docid=xyJepFkLVSKUrM&w=700&h=275&q=linkedin%20cover%20photo%20for%20full%20stack%20developer&ved=2ahUKEwjyidy32oaDAxVnfGwGHb3GDMgQMygFegQIARA9)]
+
 <h1 align="center">Hi 👋, I'm Bhoomi Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif " align="right" width="400">
+<img src="![image](https://github.com/bhmi-1402/bhmi-1402/assets/104765059/1eafa807-e1b5-4fc3-9ec6-f5f0b0ad1098)
+ " align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhmi-1402&label=Profile%20views&color=0e75b6&style=flat" alt="bhmi-1402" /> </p>
 
