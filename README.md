@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Agarwal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif&tbnid=hG9Wqf67TP1hgM&vet=12ahUKEwiL5bC9zYaDAxWCamwGHb_qBtsQMygLegQIARB4..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=640&h=640&q=animated%20coding%20gif%20girl&ved=2ahUKEwiL5bC9zYaDAxWCamwGHb_qBtsQMygLegQIARB4" alt="bhmi-1402" width="400" align="right"/>
+ <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2F2SeTinGEKNQAAAAd%2Fcodelikeagirl.gif&tbnid=gMyOF91NZ6m1PM&vet=12ahUKEwiL5bC9zYaDAxWCamwGHb_qBtsQMygmegUIARDMAQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcodelikeagirl-gif-22766705&docid=9bhSt-ipY9ktfM&w=638&h=386&q=animated%20coding%20gif%20girl&ved=2ahUKEwiL5bC9zYaDAxWCamwGHb_qBtsQMygmegUIARDMAQ" alt="bhmi-1402" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhmi-1402&label=Profile%20views&color=0e75b6&style=flat" alt="bhmi-1402" /> </p>
 
